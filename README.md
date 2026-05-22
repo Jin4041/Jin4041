@@ -1,6 +1,6 @@
 <div align="center">
 
-# 여정진 | Jeongjin Yeo
+# 여정진 | Jungjin Yeo
 
 **문제를 끝까지 파고드는 백엔드 개발자**
 
@@ -51,10 +51,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jin4041&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jin4041&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
+<img src="https://streak-stats.demolab.com?user=Jin4041&hide_border=true" />
 </div>
 
 ---
